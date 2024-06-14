@@ -34,7 +34,7 @@
 
 ## 🔥 Screenshots
 
-![Preview]()
+![Preview](https://github.com/Juzlus/Steam-markdown-preview/assets/41649887/94112ca0-9189-4339-9d30-89c3c88e9204)
 
 
 ## 📝 Feedback
