@@ -1,0 +1,87 @@
+.hide-panel {
+    display: none;
+}
+
+.show-panel {
+    display: block;
+}
+
+#focusButton {
+    background: transparent;
+    outline: none;
+    box-shadow: none;
+    border: none;
+    text-align: center;
+    cursor: pointer;
+    width: 10;
+}
+
+#focusButton svg{
+    width: 10;
+    fill: #61696D;
+}
+
+#focusButton svg:hover {
+    fill: white;
+}
+
+#workshopItemDescriptionRaw textarea {
+    width: 100%;
+    min-height: 300px;
+    resize:none;
+    outline: none;
+    border-radius: 3;
+    max-height: 700px;
+    padding: 10px;
+    border: 1px solid #535354;
+    background-color: rgba(0, 0, 0, 0.096);
+    padding-top: 30px;
+}
+
+#textAreaTable {
+    width: 50px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgb(26, 40, 55);
+    margin-top: 45px;
+}
+
+#textAreaTable td {
+    padding: 0;
+}
+
+#textAreaTable button {
+    width: 30px;
+    padding: 1;
+    outline: none;
+    cursor: pointer;
+    border: none;
+    color: #969696;
+    border: 1px solid #535354;
+    font-size: 13px;
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0.5) 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+
+.tooltipText {
+    visibility: hidden;
+    border: 1px solid #35465e;
+    background: #242731;
+    color: #fff;
+    text-align: center;
+    padding: 5px 10px;
+    border-radius: 2px;
+    position: absolute;
+    z-index: 1;
+    margin-top: 20px;
+}
+
+#textAreaTable button:hover .tooltiptext {
+    visibility: visible;
+}
+
+#highlightContent ol, #highlightContent ul {
+    margin: 0 0 8 0;
+}
