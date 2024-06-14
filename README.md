@@ -2,7 +2,6 @@
 <img width="2200px" src="./banner.png">
 
 <div align="center">
-  <a href="https://GitHub.com/Juzlus/Steam-markdown-preview/releases/"><img alt="GitHub release" src="https://img.shields.io/github/release/Juzlus/Steam-markdown-preview.svg?style=social"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://GitHub.com/Juzlus/Steam-markdown-preview/commit/"><img alt="GitHub latest commit" src="https://img.shields.io/github/last-commit/Juzlus/Steam-markdown-preview.svg?style=social&logo=github"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://GitHub.com/Juzlus/Steam-markdown-preview/stargazers/"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Juzlus/Steam-markdown-preview.svg?style=social"></a>
 </div>
